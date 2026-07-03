@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launcher icon background -->
+    <color name="ic_launcher_background">#0F1B2D</color>
+    <!-- Splash screen background — matches the dark theme canvas -->
+    <color name="splash_background">#080B12</color>
+</resources>
